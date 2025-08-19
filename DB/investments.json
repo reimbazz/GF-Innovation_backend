@@ -1,18 +1,25 @@
 {
   "investments": [
     {
-      "name": "Ação Casas Bahia",
-      "type": "Ação",
-      "value": 3333,
-      "date": "2025-07-31",
-      "id": "5b5e02af-0d39-4155-8df7-85f54b47e8d3"
-    },
-    {
       "name": "Titulo publico",
       "type": "Título",
       "value": 7000,
       "date": "2025-08-08",
       "id": "8865402c-d39c-42e7-a74b-b0b82f088f68"
+    },
+    {
+      "name": "Ação Casas Bahia",
+      "type": "Ação",
+      "value": 987,
+      "date": "2025-08-19",
+      "id": "9fe18259-38a9-49e2-bf55-d5459a9e4a07"
+    },
+    {
+      "name": "XPLG11",
+      "type": "Fundo",
+      "value": 4254,
+      "date": "2025-08-19",
+      "id": "e2c2fc46-e188-42a6-b955-96427e712fc3"
     }
   ]
 }
